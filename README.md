@@ -1,6 +1,6 @@
 ## Project Title
 
-Side Quest Week 2: 'Joyful" Platforms (AABB Collisions)
+Side Quest Week 2: 'Joyful' Platforms (AABB Collisions)
 
 ---
 
