@@ -15,15 +15,15 @@ let blob3 = {
 
   // Time values for breathing animation
   t: 0,
-  tSpeed: 0.02,
+  tSpeed: 0.1,
 
   // Physics: velocity
   vx: 0, // Horizontal velocity
   vy: 0, // Vertical velocity
 
   // Movement tuning
-  accel: 0.75, // 0.55 -> 0.75 to make more responsive
-  maxRun: 5.2, // 4.0 -> 5.2 for more energetic movement
+  accel: 20.0, // 0.55 -> 20.0 to make more responsive
+  maxRun: 5.2, // 41 -> 5.2 for more energetic movement
   gravity: 0.45, // 0.65 -> 0.45 to make movement floatier
   jumpV: -14.5, // -11.0 -> -14.5 for higher, happier jumps
 

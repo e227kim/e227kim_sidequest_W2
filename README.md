@@ -1,18 +1,18 @@
 ## Project Title
 
-Side Quest Week 2: 'Joyful' Platforms (AABB Collisions)
+Side Quest Week 2: 'Joyful' Platforms
 
 ---
 
-## Original Authors
+## Authors
 
-Karen Cochrane and David Han
+Original example written by Karen Cochrane and David Han, edited by Estelle Kim.
 
 ---
 
 ## Description
 
-Adds several rectangular platforms. The blob is drawn as a noisy circle but collides using a simple axis-aligned bounding box (AABB). X and Y are resolved separately to keep behaviour predictable and teachable. Original code was edited so that the blob's movement and environment express the emotion "joy".
+This p5.js project demonstrates a simple game where a blob can move around and collide with several rectangular platforms. Original code was edited so that the blob's movement, appearance, and environment express the emotion "joy".
 
 ---
 
@@ -28,7 +28,8 @@ Adds several rectangular platforms. The blob is drawn as a noisy circle but coll
 ## Learning Goals
 
 - Adjust physics of blob (gravity, jump force, friction) to convey a certain emotion
-- Edit environment to emobdy a certain emotion (background/fill colours, platform positions/sizes)
+- Edit the appearance of blob
+- Edit environment to emobody a certain emotion (background/fill colours, platform positions sizes)
 
 ---
 
@@ -41,5 +42,7 @@ N/A
 ## GenAI
 
 The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+
+Estelle Kim did not use GenAI to edit the example code.
 
 ---
